@@ -1,2 +1,2 @@
-# Scientific Machine Learning & Geometry
+# Scientific Machine Learning & More
 
