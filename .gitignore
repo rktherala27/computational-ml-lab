@@ -232,5 +232,6 @@ venv/
 .idea/
 
 # Generated results
+
 projects/**/results/*
 !projects/**/results/.gitkeep
