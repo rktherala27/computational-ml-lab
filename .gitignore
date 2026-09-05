@@ -235,3 +235,5 @@ venv/
 
 projects/**/results/*
 !projects/**/results/.gitkeep
+
+trial.py
